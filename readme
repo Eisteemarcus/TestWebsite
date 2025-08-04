@@ -1,0 +1,19 @@
+// Website insatallieren
+// npm install
+
+// Website starten
+// npm run dev
+
+
+// Github Options
+
+//Git Repository abgleichen + adden und pushen
+// git status
+// git add .
+// git commit -m "Änderungen wurden Vorgenommen"
+// git push
+
+// Git Repository klonen
+// git clone
+// Git Repository klonen und in einen Ordner legen
+// git clone <repository-url> <folder-name>
